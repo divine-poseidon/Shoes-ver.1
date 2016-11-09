@@ -126,6 +126,147 @@ main{
     border-radius: 4px;
     color: #fff;
 }
+/*Top properties*/
+.top{
+    width: 100%;
+    /*background-color: #eeece7;*/
+    height: 460px;
+}
+.top-wrapper{
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+.top-wrapper__top-img{
+    background-image: url("Test.png");
+    height: 460px;
+    width: 484px;
+    float: left;
+
+}
+.top-wrapper__item-description{
+    height: 460px;
+    width: 516px;
+    background-color: green;
+    float: right;
+}
+.top-wrapper__item-description__item-price{
+    margin-top: 70px;
+    background-color: #57c5a0;
+    width: 68px;
+    height: 67px;
+    margin-right: 410px;
+    float: right;
+}
+.top-wrapper__item-description__item-price-div{
+    width: auto;
+    height: 17px;
+    margin-top: 22px;
+    margin-left: 7px;
+    color: #fff;
+    font-size: 13px;
+    line-height: 25px;
+}
+.top-wrapper__item-description-title{
+    width: 290px;
+    height: 80px;
+    color: #242424;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 40px;
+    margin-right: 374px;
+    margin-top: 40px;
+    background-color: yellow;
+}
+.top-wrapper__item-title-description{
+    width: 390px;
+    height: 84px;
+    color: #242424;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 25px;
+    padding-top: 10px;
+    background-color: pink;
+}
+.top-wrapper__item-description__action-menu{
+    margin: 0;
+    background-color: red;
+    padding-left: 2px;
+    margin-top: 10px;
+    width: 45px;
+}
+.top-wrapper__item-description__action-menu_icons-container{
+    background-color: #fff;
+    width: 40px;
+    height: 40px;
+}
+.top-wrapper__item-description__action-menu_icons-container-eye-icon{
+    padding: 15px 12px 15px 12px;
+}
+.top-wrapper__item-description__action-menu_icons-container-star-icon-top{
+    padding: 12px 12px 12px 12px;
+}
+.top-wrapper__item-description__action-menu_icons-container-share-icon{
+    padding: 13px 12px 13px 12px;
+}
+.top-wrapper__item-description__action-menu_icons-container-cart-icon-top{
+    padding: 12px 12px 12px 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*Universal properties*/
 ul{
     list-style: none;
