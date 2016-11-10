@@ -69,6 +69,7 @@ main{
     margin: 0;
     height: 60px;
     float: left;
+    padding-left: 42px;
 }
 .menu-wrapper__main-navigation__list-li{
     margin-right: 15px;
@@ -127,9 +128,10 @@ main{
     color: #fff;
 }
 /*Top properties*/
+/*Main top properties*/
 .top{
     width: 100%;
-    /*background-color: #eeece7;*/
+    background-color: #eeece7;
     height: 460px;
 }
 .top-wrapper{
@@ -147,7 +149,6 @@ main{
 .top-wrapper__item-description{
     height: 460px;
     width: 516px;
-    background-color: green;
     float: right;
 }
 .top-wrapper__item-description__item-price{
@@ -176,7 +177,6 @@ main{
     line-height: 40px;
     margin-right: 374px;
     margin-top: 40px;
-    background-color: yellow;
 }
 .top-wrapper__item-title-description{
     width: 390px;
@@ -186,14 +186,12 @@ main{
     font-weight: 300;
     line-height: 25px;
     padding-top: 10px;
-    background-color: pink;
 }
 .top-wrapper__item-description__action-menu{
     margin: 0;
-    background-color: red;
     padding-left: 2px;
     margin-top: 10px;
-    width: 45px;
+    width: 400px;
 }
 .top-wrapper__item-description__action-menu_icons-container{
     background-color: #fff;
@@ -211,6 +209,27 @@ main{
 }
 .top-wrapper__item-description__action-menu_icons-container-cart-icon-top{
     padding: 12px 12px 12px 12px;
+}
+/*Top slider properties*/
+.top__slider{
+    width: 100%;
+    background-color: #2e2e2e;
+    height: 90px;
+}
+.top__slider-wrapper{
+    height: 100%;
+    width: 1000px;
+    margin: 0 auto;
+    background-color: greenyellow;
+}
+.top__slider-wrapper__navigation{
+    height: 11px;
+    width: 961px;
+    float: left;
+    background-color: black;
+    margin-top: 6px;
+    margin-right: 14px;
+    margin-left: 27px;
 }
 
 
