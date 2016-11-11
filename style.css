@@ -212,27 +212,89 @@ main{
 }
 /*Top slider properties*/
 .top__slider{
-    width: 100%;
-    background-color: #2e2e2e;
+    background-image: url("Slider.png");
     height: 90px;
+    width: 1400px;
 }
-.top__slider-wrapper{
-    height: 100%;
+/*Specials*/
+.specials{
+    width: 100%;
+    height: 230px;
+    background-color: #242424;
+}
+.specials-wrapper{
     width: 1000px;
+    height: auto;
     margin: 0 auto;
-    background-color: greenyellow;
+    background-color: green;
 }
-.top__slider-wrapper__navigation{
-    height: 11px;
-    width: 961px;
+/*Specials on sale*/
+.specials-wrapper__on-sale{
+    background-image: url("OnSale.png");
+    height: 180px;
+    width: 300px;
     float: left;
-    background-color: black;
-    margin-top: 6px;
-    margin-right: 14px;
-    margin-left: 27px;
+    margin-top: 25px;
+    margin-left: 17px;
 }
+.specials-wrapper__on-sale__div{
+    width: 180px;
+    height: 60px;
+    background-color: rgba(36, 36, 36, 0.9);
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.specials-wrapper__on-sale__div-text{
+    padding-top: 18px;
+    padding-left: 40px;
+    color: #fff;
+    font-size: 25px;
+}
+/*Specials specials offers*/
+.specials-wrapper__specials-offers{
+    background-image: url("SpecialsOffers.png");
+    height: 180px;
+    width: 300px;
+    float: left;
+    margin-top: 25px;
+    margin-left: 22px;
+}
+.specials-wrapper__specials-offers__div{
+    background-color: rgba(36, 36, 36, 0.9);
+    width: 230px;
+    height: 60px;
+    margin-top: 60px;
+    margin-left: 35px;
+}
+.specials-wrapper__specials-offers__div-text {
+    padding-top: 18px;
+    color: #fff;
+    font-size: 25px;
+    padding-left: 10px;
+}
+/*Specials must have*/
+.specials-wrapper__must-have{
+    background-image: url("MustHave.png");
+    height: 180px;
+    width: 300px;
+    float: left;
+    margin-top: 25px;
+    margin-left: 22px;
 
-
+}
+.specials-wrapper__must-have__div{
+    background-color: rgba(36, 36, 36, 0.9);
+    width: 180px;
+    height: 60px;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.specials-wrapper__must-have__div-text{
+    padding-top: 18px;
+    color: #fff;
+    font-size: 25px;
+    padding-left: 18px;
+}
 
 
 
