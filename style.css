@@ -32,7 +32,7 @@ main{
     padding: 0;
     width: 100px;
     height: 15px;
-    margin: 10px 23px 0 11px;
+    margin: 10px 11px 0 11px;
 }
 .header-wrapper__login-register__list__li{
     display: inline-block;
@@ -61,8 +61,9 @@ main{
 .menu-wrapper{
     width: 1000px;
     height: 100%;
-    background-color: #ffffff;
+    /*background-color: #ffffff;*/
     margin: 0 auto;
+   /* background-color: green;*/
 }
 /*Main navigation properties*/
 .menu-wrapper__main-navigation__list{
@@ -138,6 +139,7 @@ main{
     width: 1000px;
     height: auto;
     margin: 0 auto;
+    background-color: yellow;
 }
 .top-wrapper__top-img{
     background-image: url("Test.png");
