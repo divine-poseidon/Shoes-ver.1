@@ -301,15 +301,14 @@ main{
 .commercial{
     width: 100%;
     height: 1000px;
-    /*background-color: #ebe7df;*/
-    background-color: green;
+    background-color: #ebe7df;
 }
 /*New arrivals*/
 .commercial__new-arrivals{
     width: 1000px;
     height: 360px;
-    background-color: red;
     margin: 0 auto;
+    background-color: #ebe7df;
 }
 .commercial__new-arrivals__title{
     width: 100%;
@@ -341,7 +340,7 @@ main{
 .commercial__new-arrivals__item{
     height: 272px;
     width: 100%;
-    background-color: yellow;
+    background-color: #ebe7df;
 }
 .commercial__new-arrivals_item-1{
     background-image: url("Item1.png");
@@ -414,6 +413,46 @@ main{
     font-size: 13px;
     line-height: 25px;
     text-transform: uppercase;
+}
+/*Best sellers*/
+.commercial__best-sellers{
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    /*background-color: #ebe7df;*/
+    background-color: yellow;
+}
+.commercial__best-sellers__title {
+    width: 100%;
+    height: 88px;
+    /*background-color: #ebe7df;*/
+    background-color: yellow;
+}
+.commercial__best-sellers-title-text{
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 2.4;
+    text-align: left;
+    color: #242424;
+    float: left;
+    margin-top: 37px;
+    margin-left: 25px;
+}
+.commercial__best-sellers__title__show-all-btn{
+    width: 100px;
+    height: 30px;
+    background-color: #ebe7df;
+    border: solid 1px #bcb5a7;
+    float: right;
+    margin-top: 32px;
+    margin-right: 34px;
+}
+.commercial__best-sellers__title__show-all-btn-text{
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.79;
+    text-align: center;
+    color: #bcb5a7;
 }
 
 
