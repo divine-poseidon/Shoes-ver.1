@@ -419,14 +419,12 @@ main{
     width: 1000px;
     height: auto;
     margin: 0 auto;
-    /*background-color: #ebe7df;*/
-    background-color: yellow;
+    background-color: #ebe7df;
 }
 .commercial__best-sellers__title {
     width: 100%;
     height: 88px;
-    /*background-color: #ebe7df;*/
-    background-color: yellow;
+    background-color: #ebe7df;
 }
 .commercial__best-sellers-title-text{
     font-size: 25px;
@@ -453,6 +451,39 @@ main{
     line-height: 1.79;
     text-align: center;
     color: #bcb5a7;
+}
+.commercial__best-sellers__item{
+    height: 272px;
+    width: 100%;
+    background-color: red;
+    float: left;
+}
+.commercial__best-sellers__item-1{
+    background-image: url("ItemBS.png");
+    background-repeat: no-repeat;
+    background-color: #fff;
+    height: 272px;
+    width: 300px;
+    float: left;
+    margin-left: 27px;
+}
+.commercial__best-sellers__item-2{
+    background-image: url("Item2BS.png");
+    background-repeat: no-repeat;
+    background-color: #fff;
+    height: 272px;
+    width: 300px;
+    float: left;
+    margin-left: 27px;
+}
+.commercial__best-sellers__item-3{
+    background-image: url("Item3BS.png");
+    background-repeat: no-repeat;
+    background-color: #fff;
+    height: 272px;
+    width: 300px;
+    float: left;
+    margin-left: 27px;
 }
 
 
