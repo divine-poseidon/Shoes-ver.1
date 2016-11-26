@@ -455,7 +455,6 @@ main{
 .commercial__best-sellers__item{
     height: 272px;
     width: 100%;
-    background-color: red;
     float: left;
 }
 .commercial__best-sellers__item-1{
@@ -484,6 +483,28 @@ main{
     width: 300px;
     float: left;
     margin-left: 27px;
+}
+.commercial__best-sellers__item-price{
+    width: 68px;
+    height: 67px;
+    background-color: #57c5a0;
+    margin-left: 12px;
+    margin-top: 203px;
+}
+.commercial__best-sellers__item-price-paragraph{
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 1.92;
+    text-align: left;
+    color: #ffffff;
+    padding-left: 8px;
+    padding-top: 22px;
+}
+.commercial__best-sellers__item-name{
+    font-size: 18px;
+    line-height: 1.39;
+    text-align: center;
+    color: #242424;
 }
 
 
