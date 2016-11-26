@@ -505,6 +505,9 @@ main{
     line-height: 1.39;
     text-align: center;
     color: #242424;
+    margin-top: -25px;
+    margin-left: 14px;
+    float: left;
 }
 
 
