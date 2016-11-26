@@ -375,6 +375,7 @@ main{
     width: 68px;
     height: 67px;
     margin-top: 205px;
+    margin-left: 12px;
     float: left;
 }
 .commercial__new-arrivals_item-1-price-div{
@@ -505,9 +506,52 @@ main{
     line-height: 1.39;
     text-align: center;
     color: #242424;
-    margin-top: -25px;
-    margin-left: 14px;
+    margin-top: -35px;
+    margin-left: 93px;
     float: left;
+}
+.commercial__best-sellers__item-status{
+    width: 68px;
+    height: auto/*67px*/;
+    background-color: #f27e4b;
+    float: right;
+    margin-right: 11px;
+    margin-top: -280px;
+}
+.commercial__best-sellers__item-status-paragraph{
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 1.15;
+    text-align: center;
+    color: #ffffff;
+    padding-top: auto/*12px*/;
+    padding-left: 12px;
+    padding-bottom: auto/*px*/;
+    padding-right: 12px;
+}
+.commercial__best-sellers__action-menu{
+    margin: 0;
+    padding-left: 2px;
+    width: 400px;
+    margin-top: -50px;
+    margin-left: 107px;
+}
+.commercial__best-sellers__action-menu_icons-container{
+    /*background-color: #fff;*/
+    width: 40px;
+    height: 40px;
+}
+.commercial__best-sellers__action-menu_icons-container-eye-icon{
+    padding: 15px 12px 15px 12px;
+}
+.commercial__best-sellers__action-menu_icons-container-star-icon-top{
+    padding: 12px 12px 12px 12px;
+}
+.commercial__best-sellers__action-menu_icons-container-share-icon{
+    padding: 13px 12px 13px 12px;
+}
+.commercial__best-sellers__action-menu_icons-container-cart-icon-top{
+    padding: 12px 12px 12px 12px;
 }
 
 
