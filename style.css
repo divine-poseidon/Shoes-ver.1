@@ -319,7 +319,7 @@ main{
     color: #242424;
     font-size: 25px;
     margin-left: 25px;
-    margin-top: 35px;
+    margin-top: 30px;
     float: left;
 }
 .commercial__new-arrivals__title-show-all{
@@ -328,8 +328,8 @@ main{
     background-color: #ebe7df;
     border: 1px solid #bcb5a7;
     float: right;
-    margin-top: 30px;
-    margin-right: 34px;
+    margin-top: 27px;
+    margin-right: 45px;
 }
 .commercial__new-arrivals__title-show-all-text{
     font-size: 14px;
@@ -349,7 +349,7 @@ main{
     height: 272px;
     width: 300px;
     float: left;
-    margin-left: 27px;
+    margin-left: 15px;
 }
 .commercial__new-arrivals_item-2{
     background-image: url("Item2.png");
@@ -389,7 +389,7 @@ main{
 }
 .commercial__new-arrivals_item-1-name{
     float: left;
-    margin-top: 237px;
+    margin-top: 227px;
     margin-left: 14px;
     color: #242424;
     font-size: 18px;
@@ -444,7 +444,7 @@ main{
     border: solid 1px #bcb5a7;
     float: right;
     margin-top: 27px;
-    margin-right: 34px;
+    margin-right: 45px;
 }
 .commercial__best-sellers__title__show-all-btn-text{
     font-size: 14px;
@@ -454,6 +454,7 @@ main{
     color: #bcb5a7;
 }
 .commercial__best-sellers__item{
+    margin-top: 15px;
     height: 272px;
     width: 100%;
     float: left;
@@ -465,7 +466,7 @@ main{
     height: 272px;
     width: 300px;
     float: left;
-    margin-left: 27px;
+    margin-left: 15px;
 }
 .commercial__best-sellers__item-2{
     background-image: url("Item2BS.png");
@@ -474,7 +475,7 @@ main{
     height: 272px;
     width: 300px;
     float: left;
-    margin-left: 27px;
+    margin-left: 22px;
 }
 .commercial__best-sellers__item-3{
     background-image: url("Item3BS.png");
@@ -483,7 +484,7 @@ main{
     height: 272px;
     width: 300px;
     float: left;
-    margin-left: 27px;
+    margin-left: 22px;
 }
 .commercial__best-sellers__item-price{
     width: 68px;
@@ -506,7 +507,7 @@ main{
     line-height: 1.39;
     text-align: center;
     color: #242424;
-    margin-top: -35px;
+    margin-top: -40px;
     margin-left: 93px;
     float: left;
 }
@@ -515,8 +516,8 @@ main{
     height: auto/*67px*/;
     background-color: #f27e4b;
     float: right;
-    margin-right: 11px;
-    margin-top: -280px;
+    margin-right: 17px;
+    margin-top: -275px;
 }
 .commercial__best-sellers__item-status-paragraph{
     font-size: 13px;
@@ -533,8 +534,8 @@ main{
     margin: 0;
     padding-left: 2px;
     width: 400px;
-    margin-top: -50px;
-    margin-left: 107px;
+    margin-top: -45px;
+    margin-left: 100px;
 }
 .commercial__best-sellers__action-menu_icons-container{
     /*background-color: #fff;*/
