@@ -554,9 +554,42 @@ main{
 .commercial__best-sellers__action-menu_icons-container-cart-icon-top{
     padding: 12px 12px 12px 12px;
 }
-
-
-
+.commercial__footer{
+    width: 100%;
+    background-color: #ebe7df;
+    height: auto;
+}
+.commercial__footer-wrapper{
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    /*background-color: #ebe7df;*/
+    background-color: red;
+    float: left;
+    margin-left: 200px;
+}
+.commercial__footer-wrapper__free-shipping{
+    width: 220px;
+    height: 185px;
+    background-color: brown;
+}
+.commercial__footer-wrapper__free-shipping-title{
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 4.29;
+    text-align: left;
+    color: #242424;
+    padding-left: 15px;
+    /*padding-top: 10px;*/
+}
+.commercial__footer-wrapper__free-shipping-text{
+    font-size: 12px;
+    line-height: 1.33;
+    text-align: left;
+    color: #242424;
+    /*padding-top: 17px;*/
+    padding-left: 15px;
+}
 
 
 
