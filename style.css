@@ -571,7 +571,10 @@ main{
 .commercial__footer-wrapper__free-shipping{
     width: 220px;
     height: 185px;
-    background-color: brown;
+    background-color: #dfdbd4;
+    margin-left: 25px;
+    float: left;
+    margin-top: 73px;
 }
 .commercial__footer-wrapper__free-shipping-title{
     font-size: 14px;
@@ -589,6 +592,38 @@ main{
     color: #242424;
     /*padding-top: 17px;*/
     padding-left: 15px;
+}
+.commercial__footer-wrapper__testimonials{
+    width: 220px;
+    height: 185px;
+    background-color: #dfdbd4;
+    margin-left: 20px;
+    float: left;
+    margin-top: 73px;
+}
+.commercial__footer-wrapper__testimonials-title{
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 4.29;
+    text-align: left;
+    color: #242424;
+    padding-left: 15px;
+}
+.commercial__footer-wrapper__testimonials-text{
+    font-size: 12px;
+    line-height: 1.33;
+    text-align: left;
+    color: #242424;
+    padding-left: 15px;
+}
+.commercial__footer-wrapper__testimonials-text-quote{
+    line-height: 1.83;
+    font-size: 12px;
+    text-align: left;
+    color: #242424;
+    padding-top: 5px;
+    padding-left: 15px;
+
 }
 
 
