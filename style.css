@@ -682,14 +682,76 @@ main{
   text-align: left;
   color: #242424;
 }
-
-
-
-
-
-
-
-
+.pre-footer{
+  width: 100%;
+  height: auto;
+  background-color: #242424
+}
+.pre-footer-wrapper{
+  width: 1000px;
+  height: 365px;
+  background-color: green;
+  margin: 0 auto;
+}
+.pre-footer-wrapper__text-widget{
+  margin-left: 67px;
+  height: auto;
+  background-color: #242424;
+  width: 251px;
+  float: left;
+}
+.pre-footer-wrapper__text-widget-title{
+  font-size: 14px;
+  line-height: 1.29;
+  text-align: left;
+  color: #7d7d7d;
+  padding-top: 51px;
+}
+.pre-footer-wrapper__text-widget-content{
+  font-size: 12px;
+  font-style: italic;
+  line-height: 1.5;
+  text-align: justify;
+  color: #a4a4a4;
+  padding-top: 24px;
+}
+.pre-footer-wrapper__twitter-widget{
+  background-color: #242424;
+  margin-left: 52px;
+  height: auto;
+  width: 251px;
+  float: left;
+}
+.pre-footer-wrapper__twitter-widget-title{
+  font-size: 14px;
+  line-height: 1.29;
+  text-align: left;
+  color: #7d7d7d;
+  padding-top: 51px;
+}
+.pre-footer-wrapper__twitter-widget__post-content{
+  font-size: 12px;
+  font-style: italic;
+  line-height: 1.5;
+  text-align: justify;
+  color: #a4a4a4;
+  padding-top: 24px;
+}
+.pre-footer-wrapper__twitter-widget__post-date-ago{
+  font-size: 12px;
+  font-style: italic;
+  line-height: 1.5;
+  text-align: justify;
+  color: #c4c5bf;
+  padding-top: 11px;
+}
+.twitter-user-link{
+  font-size: 12px;
+  font-style: italic;
+  line-height: 1.5;
+  text-align: justify;
+  color: #57c5a0;
+}
 
 
 
