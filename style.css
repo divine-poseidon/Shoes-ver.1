@@ -833,10 +833,20 @@ main{
 }
 .pre-footer-wrapper__form-input{
   background-color: #2e2e2e;
+  border: 1px solid #2e2e2e;
+  font-size: 10px;
+  font-style: italic;
+  line-height: 1.5;
+  text-align: justify;
+  color: #7d7d7d;
+  padding-top: 8px;
 }
-
-
-
+.pre-footer-wrapper__form__arrow-icon{
+  background-image: url("ArrowIcon.png");
+  width: 36px;
+  height: 36px;
+  float: right;
+}
 
 
 
