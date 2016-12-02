@@ -815,9 +815,25 @@ main{
   margin-top: 10px;
   margin-left: 10px;
 }
-
-
-
+.pre-footer-wrapper__form{
+  width: auto;
+  height: auto;
+  float: left;
+  margin-top: 70px;
+  margin-left: 67px;
+  background-color: #2e2e2e;
+}
+.pre-footer-wrapper__form-text{
+  margin: 0;
+  background-color: #2e2e2e;
+}
+.pre-footer-wrapper__widget-container{
+  width: auto;
+  height: auto;
+}
+.pre-footer-wrapper__form-input{
+  background-color: #2e2e2e;
+}
 
 
 
@@ -854,4 +870,9 @@ a{
 }
 li{
     display: inline-block;
+}
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
 }
